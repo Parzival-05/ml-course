@@ -17,3 +17,5 @@
 *.png
 *.jpeg
 *.mp4
+
+__pycache__
